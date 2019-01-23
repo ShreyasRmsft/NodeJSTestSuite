@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-application",
+  "version": "0.0.0",
+  "description": "nodejs-application",
+  "author": {
+    "name": "shrer"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^5.0.0",
+    "mocha-junit-reporter": "^1.18.0",
+    "system-sleep": "^1.3.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
