@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: Shreyas
+pool: Default
 
 steps:
 - task: NodeTool@0
